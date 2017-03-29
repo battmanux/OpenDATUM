@@ -1,5 +1,7 @@
 # OpenDATUM
-Open source data platform for data scientists
+Open source data platform for data scientists 
+
+http://www.opendatum.net
 
 ## Purpose
 OpenDATUM provides a light data platform allowing data scientists to directly navigate in datalakes.
