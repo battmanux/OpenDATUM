@@ -15,7 +15,7 @@ Data preparation easaly represents 75% of the time spent by datascientists while
 We believe that such a project shall be fully open source and managed as a community project.
 
 ## Project governance
-My objective is to push forward a **Liberal contribution** model. However, if concensus is too hard to reach, jeopardizes the project progress and kill contribution dynamic, I may fall back to a model closer to **Benevolent Dictator for Life**
+My objective is to push forward a **Liberal contribution** model. However, if concensus is too hard to reach, jeopardizes the project progress and kills contribution dynamic, I may fall back to a model closer to **Benevolent Dictator for Life**
 
 **Liberal contribution:** Under a liberal contribution model, the people who do the most work are recognized as most influential, but this is based on current work and not historic contributions. Major project decisions are made based on a consensus seeking process (discuss major grievances) rather than pure vote, and strive to include as many community perspectives as possible.
 
