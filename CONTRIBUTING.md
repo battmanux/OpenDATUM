@@ -14,6 +14,7 @@ In a general way, if you have an idea of what should be different in the project
 we will help you fit the project architectural structure and rules in order to simplify the pull request acceptance.
 
 # Ground Rules
+- Messages, documentation, variables names and comments are written in english
 - Never point out that someone else did wrong. Always show a way that could benefit to all.
 - Show respect for the code of others as you expect respect for yours
 - Show respect for your own code otherwise I will never merge it in the master branch.
