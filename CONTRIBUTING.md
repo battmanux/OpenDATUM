@@ -53,6 +53,13 @@ If you find a bug, just fix it for now. We will see later when the project have 
 # How to suggest a feature or enhancement
 We are brainstorming on features once a week. If you feel that you have time to defend your ideas in that kind of event, get in touch with me 
 
+# Coding Style
+- Make it readable. 
+- Use meaningfull names. 
+- Avoid generic names. 
+- Use Systems Hungarian notations. 
+- Check indentation with formatR.
+
 # Code review process
 The core team looks at Pull Requests on a regular basis in a weekly triage meeting that we hold in a public Google Hangout.
 The hangout is announced in the weekly status updates that are recorded in the wiki. 
