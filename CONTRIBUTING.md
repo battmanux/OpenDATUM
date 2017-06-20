@@ -58,7 +58,7 @@ We are brainstorming on features once a week. If you feel that you have time to 
 - Use meaningfull names. 
 - Avoid generic names. 
 - Use Systems Hungarian notations. 
-- Check indentation with formatR.
+- Check indentation with formatR. (follow https://google.github.io/styleguide/Rguide.xml)
 
 # Code review process
 The core team looks at Pull Requests on a regular basis in a weekly triage meeting that we hold in a public Google Hangout.
