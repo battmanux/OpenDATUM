@@ -24,4 +24,4 @@ My objective is to push forward a **Liberal contribution** model. However, if co
 **BDFL:** BDFL stands for “Benevolent Dictator for Life”. Under this structure, one person (usually the initial author of the project) has final say on all major project decisions. Python is a classic example. Smaller projects are probably BDFL by default, because there are only one or two maintainers. A project that originated at a company might also fall into the BDFL category.
 
 ## Contributing
-See [CONTRIBUTING.md](https://github.com/battmanux/OpenDATUM/blob/develop/CONTRIBUTING.md), [Wiki](https://github.com/battmanux/OpenDATUM/wiki/) for project [technical documentation](https://github.com/battmanux/OpenDATUM/wiki/) and [code of conduct](https://github.com/battmanux/OpenDATUM/wiki/Contributor-Covenant-Code-of-Conduct)
+See [CONTRIBUTING.md](https://github.com/battmanux/OpenDATUM/blob/develop/CONTRIBUTING.md), [Wiki](https://github.com/battmanux/OpenDATUM/wiki/) for project [technical documentation](https://github.com/battmanux/OpenDATUM/wiki/Modules) and [code of conduct](https://github.com/battmanux/OpenDATUM/wiki/Contributor-Covenant-Code-of-Conduct)
